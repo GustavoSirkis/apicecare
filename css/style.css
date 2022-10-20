@@ -2548,7 +2548,7 @@ img.testimonial-thumb {
 /* Links */
 .footer-widget ul.list-arrow li {
   border-bottom: 1px solid rgba(255, 255, 255, 0.07);
-  padding: 8px 0;
+  padding: 2px 0;
 }
 
 .footer-widget ul.list-arrow li:last-child {
